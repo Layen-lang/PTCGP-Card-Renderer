@@ -1,0 +1,138 @@
+{
+  "binarySha256": "eefba3938aa7bc1751135abb56b82f12d46c290c0a598b59e459d6f1a15c4d5c",
+  "metadataSha256": "49334c4ffd1d998fcaf74f6353acf29580a20b3332013c344a6c9d46f6d205ef",
+  "labels": [
+    {
+      "code": 0,
+      "entryRva": "0x6e2f300",
+      "slotRva": "0x7c5ccd8",
+      "string": {
+        "Address": 130403544,
+        "Value": "evolution_from"
+      }
+    },
+    {
+      "code": 1,
+      "entryRva": "0x6e2f308",
+      "slotRva": "0x7c60118",
+      "string": {
+        "Address": 130416920,
+        "Value": "megaex_pokemon_evolution_from"
+      }
+    },
+    {
+      "code": 2,
+      "entryRva": "0x6e2f310",
+      "slotRva": "0x7c5cd00",
+      "string": {
+        "Address": 130403584,
+        "Value": "ex_pokemon_down_description"
+      }
+    },
+    {
+      "code": 3,
+      "entryRva": "0x6e2f318",
+      "slotRva": "0x7c60110",
+      "string": {
+        "Address": 130416912,
+        "Value": "megaex_pokemon_down_description"
+      }
+    },
+    {
+      "code": 4,
+      "entryRva": "0x6e2f320",
+      "slotRva": "0x7c65588",
+      "string": {
+        "Address": 130438536,
+        "Value": "weakness"
+      }
+    },
+    {
+      "code": 5,
+      "entryRva": "0x6e2f328",
+      "slotRva": "0x7c61f08",
+      "string": {
+        "Address": 130424584,
+        "Value": "retreat"
+      }
+    },
+    {
+      "code": 6,
+      "entryRva": "0x6e2f330",
+      "slotRva": "0x7c5e4c0",
+      "string": {
+        "Address": 130409664,
+        "Value": "hp"
+      }
+    },
+    {
+      "code": 7,
+      "entryRva": "0x6e2f338",
+      "slotRva": "0x7c613c8",
+      "string": {
+        "Address": 130421704,
+        "Value": "pokemon_tool_description"
+      }
+    },
+    {
+      "code": 8,
+      "entryRva": "0x6e2f340",
+      "slotRva": "0x7c5dee8",
+      "string": {
+        "Address": 130408168,
+        "Value": "goods_description"
+      }
+    },
+    {
+      "code": 9,
+      "entryRva": "0x6e2f348",
+      "slotRva": "0x7c637e0",
+      "string": {
+        "Address": 130430944,
+        "Value": "support_description"
+      }
+    },
+    {
+      "code": 10,
+      "entryRva": "0x6e2f350",
+      "slotRva": "0x7c62eb8",
+      "string": {
+        "Address": 130428600,
+        "Value": "stadium_description"
+      }
+    },
+    {
+      "code": 11,
+      "entryRva": "0x6e2f358",
+      "slotRva": "0x7c5e910",
+      "string": {
+        "Address": 130410768,
+        "Value": "illustrator"
+      }
+    }
+  ],
+  "trainerTypeTable": {
+    "rva": "0x1e4a380",
+    "rawHex": "0100000000000000030000000400000002000000",
+    "domainTypes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "internalTypes": [
+      1,
+      0,
+      3,
+      4,
+      2
+    ]
+  },
+  "proofMethods": [
+    "native/trainer-localize-20261008/export-selected-methods.json",
+    "native/trainer-conversion-20261008/export-selected-methods.json"
+  ],
+  "scope": "L",
+  "limits": "Static original table/relocation proof; not a UI or rendering fidelity certificate."
+}

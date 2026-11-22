@@ -1,0 +1,7 @@
+UnityPy==1.25.0
+lz4
+numpy
+Pillow
+xxhash>=3.0
+# Browser for the web posters (python -m web.export posters), then: playwright install chromium
+playwright

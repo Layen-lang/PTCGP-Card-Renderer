@@ -1,0 +1,25 @@
+# Everything extracted from the game or generated: never published.
+/data/
+
+# Research notes and evidence stay local.
+/dev/
+
+# Unity
+/unity/project/Library/
+/unity/project/Temp/
+/unity/project/Logs/
+/unity/project/obj/
+/unity/project/UserSettings/
+*.csproj
+*.sln
+
+# Python
+__pycache__/
+.venv/
+.pytest_cache/
+
+# Checks and tests stay local.
+/common/tests/
+/unity/verification/
+/web/verification/
+/web/tests/

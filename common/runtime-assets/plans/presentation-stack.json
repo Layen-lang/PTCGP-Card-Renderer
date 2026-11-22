@@ -1,0 +1,308 @@
+{
+  "scaler": {
+    "uiScaleMode": 1,
+    "referencePixelsPerUnit": 100.0,
+    "scaleFactor": 1.0,
+    "referenceResolution": [
+      750.0,
+      1334.0
+    ],
+    "screenMatchMode": 1,
+    "matchWidthOrHeight": 0.0,
+    "physicalUnit": 3,
+    "fallbackScreenDPI": 96.0,
+    "defaultSpriteDPI": 96.0,
+    "dynamicPixelsPerUnit": 1.0,
+    "presetInfoIsWorld": false
+  },
+  "cardWidth": 630.0,
+  "cardHeight": 880.0,
+  "canvas": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 11
+    },
+    "m_Enabled": 1,
+    "m_RenderMode": 1,
+    "m_Camera": {
+      "m_FileID": 0,
+      "m_PathID": 30
+    },
+    "m_PlaneDistance": 100.0,
+    "m_PixelPerfect": false,
+    "m_ReceivesEvents": true,
+    "m_OverrideSorting": false,
+    "m_OverridePixelPerfect": false,
+    "m_SortingBucketNormalizedSize": 0.0,
+    "m_VertexColorAlwaysGammaSpace": false,
+    "m_AdditionalShaderChannelsFlag": 0,
+    "m_UpdateRectTransformForStandalone": 0,
+    "m_SortingLayerID": 0,
+    "m_SortingOrder": 20,
+    "m_TargetDisplay": 0
+  },
+  "baseCamera": {
+    "name": "MainCamera",
+    "file": "level1",
+    "id": 19,
+    "raw_sha256": "4babb52ad519e88556a82c01c9fa994ad69332882310699aabe60d4130dcfb20",
+    "orthographic": false,
+    "orthographicSize": 5.0,
+    "nearClip": 0.10000000149011612,
+    "farClip": 5000.0,
+    "fieldOfView": 40.0,
+    "depth": 0.0,
+    "cullingMask": 196887,
+    "clearFlags": 2,
+    "hdr": false,
+    "msaa": false,
+    "occlusion": false,
+    "color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "additional": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 8
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 9987
+      },
+      "m_Name": "",
+      "m_RenderShadows": false,
+      "m_RequiresDepthTextureOption": 0,
+      "m_RequiresOpaqueTextureOption": 0,
+      "m_CameraType": 0,
+      "m_Cameras": [],
+      "m_RendererIndex": -1,
+      "m_VolumeLayerMask": {
+        "m_Bits": 268435456
+      },
+      "m_VolumeTrigger": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_VolumeFrameworkUpdateModeOption": 2,
+      "m_RenderPostProcessing": true,
+      "m_Antialiasing": 0,
+      "m_AntialiasingQuality": 2,
+      "m_StopNaN": false,
+      "m_Dithering": false,
+      "m_ClearDepth": true,
+      "m_AllowXRRendering": true,
+      "m_AllowHDROutput": true,
+      "m_UseScreenCoordOverride": false,
+      "m_ScreenSizeOverride": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "m_ScreenCoordScaleBias": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "m_RequiresDepthTexture": false,
+      "m_RequiresColorTexture": false,
+      "m_Version": 2.0,
+      "m_TaaSettings": {
+        "m_Quality": 3,
+        "m_FrameInfluence": 0.10000000149011612,
+        "m_JitterScale": 1.0,
+        "m_MipBias": 0.0,
+        "m_VarianceClampScale": 0.8999999761581421,
+        "m_ContrastAdaptiveSharpening": 0.0
+      }
+    },
+    "hasRendererSettings": true,
+    "rendererSettings": {
+      "file": "level1",
+      "id": 37,
+      "gameobject": "MainCamera",
+      "raw_sha256": "ce3debd17959544502a9ccbbe87d2a7cde45f6682fe344ae2308842c2cd63e15",
+      "useDepthTexture": false,
+      "postEffectGroup": 0
+    }
+  },
+  "appCamera": {
+    "name": "UIAppCamera",
+    "file": "level3",
+    "id": 30,
+    "raw_sha256": "45af4acc92b18d6320ca3edef95e2daa2b3fec19d61c332800a8fa834b59085f",
+    "orthographic": true,
+    "orthographicSize": 5.0,
+    "nearClip": 0.30000001192092896,
+    "farClip": 1000.0,
+    "fieldOfView": 60.0,
+    "depth": 11.0,
+    "cullingMask": 67108896,
+    "clearFlags": 3,
+    "hdr": false,
+    "msaa": false,
+    "occlusion": true,
+    "color": {
+      "r": 0.1921568661928177,
+      "g": 0.3019607961177826,
+      "b": 0.4745098054409027,
+      "a": 0.0
+    },
+    "additional": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 6
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 9987
+      },
+      "m_Name": "",
+      "m_RenderShadows": false,
+      "m_RequiresDepthTextureOption": 0,
+      "m_RequiresOpaqueTextureOption": 0,
+      "m_CameraType": 1,
+      "m_Cameras": [],
+      "m_RendererIndex": -1,
+      "m_VolumeLayerMask": {
+        "m_Bits": 1
+      },
+      "m_VolumeTrigger": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_VolumeFrameworkUpdateModeOption": 2,
+      "m_RenderPostProcessing": false,
+      "m_Antialiasing": 0,
+      "m_AntialiasingQuality": 2,
+      "m_StopNaN": false,
+      "m_Dithering": false,
+      "m_ClearDepth": true,
+      "m_AllowXRRendering": true,
+      "m_AllowHDROutput": true,
+      "m_UseScreenCoordOverride": false,
+      "m_ScreenSizeOverride": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "m_ScreenCoordScaleBias": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "m_RequiresDepthTexture": false,
+      "m_RequiresColorTexture": false,
+      "m_Version": 2.0,
+      "m_TaaSettings": {
+        "m_Quality": 3,
+        "m_FrameInfluence": 0.10000000149011612,
+        "m_JitterScale": 1.0,
+        "m_MipBias": 0.0,
+        "m_VarianceClampScale": 0.8999999761581421,
+        "m_ContrastAdaptiveSharpening": 0.0
+      }
+    },
+    "hasRendererSettings": false,
+    "rendererSettings": null
+  },
+  "overCamera": {
+    "name": "UIOverCamera",
+    "file": "level3",
+    "id": 29,
+    "raw_sha256": "ad4b65985bdb6afe181341a591db5aac6e79887738bb1463f0087aaef959165c",
+    "orthographic": true,
+    "orthographicSize": 5.0,
+    "nearClip": 0.30000001192092896,
+    "farClip": 1000.0,
+    "fieldOfView": 60.0,
+    "depth": 11.0,
+    "cullingMask": 67108896,
+    "clearFlags": 3,
+    "hdr": false,
+    "msaa": false,
+    "occlusion": true,
+    "color": {
+      "r": 0.1921568661928177,
+      "g": 0.3019607961177826,
+      "b": 0.4745098054409027,
+      "a": 0.0
+    },
+    "additional": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 2
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 1,
+        "m_PathID": 9987
+      },
+      "m_Name": "",
+      "m_RenderShadows": false,
+      "m_RequiresDepthTextureOption": 0,
+      "m_RequiresOpaqueTextureOption": 0,
+      "m_CameraType": 1,
+      "m_Cameras": [],
+      "m_RendererIndex": -1,
+      "m_VolumeLayerMask": {
+        "m_Bits": 1
+      },
+      "m_VolumeTrigger": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_VolumeFrameworkUpdateModeOption": 2,
+      "m_RenderPostProcessing": true,
+      "m_Antialiasing": 0,
+      "m_AntialiasingQuality": 2,
+      "m_StopNaN": false,
+      "m_Dithering": false,
+      "m_ClearDepth": true,
+      "m_AllowXRRendering": true,
+      "m_AllowHDROutput": true,
+      "m_UseScreenCoordOverride": false,
+      "m_ScreenSizeOverride": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "m_ScreenCoordScaleBias": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 0.0
+      },
+      "m_RequiresDepthTexture": false,
+      "m_RequiresColorTexture": false,
+      "m_Version": 2.0,
+      "m_TaaSettings": {
+        "m_Quality": 3,
+        "m_FrameInfluence": 0.10000000149011612,
+        "m_JitterScale": 1.0,
+        "m_MipBias": 0.0,
+        "m_VarianceClampScale": 0.8999999761581421,
+        "m_ContrastAdaptiveSharpening": 0.0
+      }
+    },
+    "hasRendererSettings": true,
+    "rendererSettings": {
+      "file": "level3",
+      "id": 77,
+      "gameobject": "UIOverCamera",
+      "raw_sha256": "308566fed22bac5cd675079eba46946ebf940cf105d7ae2e0dcc2319f9386fde",
+      "useDepthTexture": false,
+      "postEffectGroup": 2
+    }
+  },
+  "caveat": "Source App1 Canvas assigned to UIAppCamera30. Dialog runtime routing/safe area/animations/background and effects remain incomplete; stack order must be checked against native runtime sorting."
+}

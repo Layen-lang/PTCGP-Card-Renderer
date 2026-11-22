@@ -1,0 +1,258 @@
+{
+  "scope": "L",
+  "binarySha256": "eefba3938aa7bc1751135abb56b82f12d46c290c0a598b59e459d6f1a15c4d5c",
+  "metadataSha256": "49334c4ffd1d998fcaf74f6353acf29580a20b3332013c344a6c9d46f6d205ef",
+  "scaleFormat": "<scale={1}>{0}</scale>",
+  "languageFlags": {
+    "rva": "0x1e4a300",
+    "values": [
+      2,
+      4,
+      8,
+      16,
+      32,
+      64,
+      128,
+      256,
+      512,
+      1024,
+      2048,
+      2
+    ],
+    "rawHex": "020000000400000008000000100000002000000040000000800000000001000000020000000400000008000002000000"
+  },
+  "literals": [
+    {
+      "globalRva": "0x72dfff0",
+      "slotRva": "0x7c1eec8",
+      "literal": "<scale={1}>{0}</scale>"
+    },
+    {
+      "globalRva": "0x72dfff8",
+      "slotRva": "0x7c1ef00",
+      "literal": "<size={2}><scale={1}>{0}</scale></size>"
+    },
+    {
+      "globalRva": "0x7266290",
+      "slotRva": "0x7c18288",
+      "literal": ""
+    },
+    {
+      "globalRva": "0x7267328",
+      "slotRva": "0x7c651c8",
+      "literal": "value"
+    },
+    {
+      "globalRva": "0x72684b8",
+      "slotRva": "0x7c1efc0",
+      "literal": ">"
+    },
+    {
+      "globalRva": "0x7269ab8",
+      "slotRva": "0x7c18670",
+      "literal": " "
+    },
+    {
+      "globalRva": "0x7271748",
+      "slotRva": "0x7c65e40",
+      "literal": "{0}"
+    },
+    {
+      "globalRva": "0x7273b88",
+      "slotRva": "0x7c192c8",
+      "literal": "%"
+    },
+    {
+      "globalRva": "0x727bb88",
+      "slotRva": "0x7c1eb50",
+      "literal": "</color>"
+    },
+    {
+      "globalRva": "0x72eed08",
+      "slotRva": "0x7c1ecb8",
+      "literal": "<b>"
+    },
+    {
+      "globalRva": "0x72eed10",
+      "slotRva": "0x7c1eb20",
+      "literal": "</b>"
+    },
+    {
+      "globalRva": "0x72eeda0",
+      "slotRva": "0x7c66980",
+      "literal": "\u2666"
+    },
+    {
+      "globalRva": "0x72eedc8",
+      "slotRva": "0x7c66960",
+      "literal": "\u25c6"
+    },
+    {
+      "globalRva": "0x72f5a98",
+      "slotRva": "0x7c33fa8",
+      "literal": "OL"
+    },
+    {
+      "globalRva": "0x72f5aa0",
+      "slotRva": "0x7c25b88",
+      "literal": "Color"
+    },
+    {
+      "globalRva": "0x72f5aa8",
+      "slotRva": "0x7c2fac0",
+      "literal": "LI"
+    },
+    {
+      "globalRva": "0x72f5ab0",
+      "slotRva": "0x7c33a38",
+      "literal": "NoBreak"
+    },
+    {
+      "globalRva": "0x72f5ab8",
+      "slotRva": "0x7c3f9c8",
+      "literal": "UL"
+    },
+    {
+      "globalRva": "0x72f5ac0",
+      "slotRva": "0x7c22890",
+      "literal": "Bold"
+    },
+    {
+      "globalRva": "0x72f5ac8",
+      "slotRva": "0x7c3ab18",
+      "literal": "Size"
+    },
+    {
+      "globalRva": "0x72f5ad8",
+      "slotRva": "0x7c1eb58",
+      "literal": "</font>"
+    },
+    {
+      "globalRva": "0x72f5ae0",
+      "slotRva": "0x7c19008",
+      "literal": "\">"
+    },
+    {
+      "globalRva": "0x72f5ae8",
+      "slotRva": "0x7c1eee0",
+      "literal": "<size="
+    },
+    {
+      "globalRva": "0x72f5af0",
+      "slotRva": "0x7c18fb8",
+      "literal": "\" material=\""
+    },
+    {
+      "globalRva": "0x72f5af8",
+      "slotRva": "0x7c1eb70",
+      "literal": "</indent>"
+    },
+    {
+      "globalRva": "0x72f5b00",
+      "slotRva": "0x7c1ee80",
+      "literal": "<nobr>"
+    },
+    {
+      "globalRva": "0x72f5b08",
+      "slotRva": "0x7c1ede0",
+      "literal": "<font=\""
+    },
+    {
+      "globalRva": "0x72f5b10",
+      "slotRva": "0x7c1eb78",
+      "literal": "</nobr>"
+    },
+    {
+      "globalRva": "0x72f5b18",
+      "slotRva": "0x7c1eb98",
+      "literal": "</size>"
+    },
+    {
+      "globalRva": "0x72f5c40",
+      "slotRva": "0x7c66158",
+      "literal": "{0}. "
+    },
+    {
+      "globalRva": "0x72f5c48",
+      "slotRva": "0x7c1ee08",
+      "literal": "<indent="
+    },
+    {
+      "globalRva": "0x72f5c50",
+      "slotRva": "0x7c66170",
+      "literal": "{0}.<indent={1}>"
+    },
+    {
+      "globalRva": "0x72f5c58",
+      "slotRva": "0x7c1cab0",
+      "literal": "1.3em"
+    },
+    {
+      "globalRva": "0x72f5c60",
+      "slotRva": "0x7c1cac0",
+      "literal": "1.45em"
+    },
+    {
+      "globalRva": "0x735a120",
+      "slotRva": "0x7c5ba00",
+      "literal": "default"
+    },
+    {
+      "globalRva": "0x7366de8",
+      "slotRva": "0x7c1ed88",
+      "literal": "<color=#"
+    },
+    {
+      "globalRva": "0x7366df8",
+      "slotRva": "0x7c2ed10",
+      "literal": "Italic"
+    },
+    {
+      "globalRva": "0x7366e00",
+      "slotRva": "0x7c18758",
+      "literal": " - "
+    },
+    {
+      "globalRva": "0x7366e08",
+      "slotRva": "0x7c18e28",
+      "literal": " {0}. "
+    },
+    {
+      "globalRva": "0x7366e10",
+      "slotRva": "0x7c1edf0",
+      "literal": "<i>"
+    },
+    {
+      "globalRva": "0x7366e18",
+      "slotRva": "0x7c66fc8",
+      "literal": "\u6307\u5b9a\u3055\u308c\u305f\u30bf\u30b0\u540d\u30b5\u30dd\u30fc\u30c8\u3055\u308c\u3066\u3044\u307e\u305b\u3093: "
+    },
+    {
+      "globalRva": "0x7366e28",
+      "slotRva": "0x7c1eb68",
+      "literal": "</i>"
+    },
+    {
+      "globalRva": "0x7367048",
+      "slotRva": "0x7c62a58",
+      "literal": "size\u30bf\u30b0\u306b\u306fvalue\u5c5e\u6027\u304c\u5fc5\u8981\u3067\u3059. value=x (x\u306f\u6570\u5024)\u306e\u5f62\u3067\u6307\u5b9a\u3057\u3066\u304f\u3060\u3055\u3044"
+    },
+    {
+      "globalRva": "0x7367058",
+      "slotRva": "0x7c62a68",
+      "literal": "size\u30bf\u30b0\u306evalue\u5c5e\u6027\u306fxx%\u306e\u5f62\u5f0f\u3067\u884c\u3063\u3066\u304f\u3060\u3055\u3044\u3002 (x\u306f\u6570\u5024) => "
+    },
+    {
+      "globalRva": "0x7367060",
+      "slotRva": "0x7c62a60",
+      "literal": "size\u30bf\u30b0\u306evalue\u5c5e\u6027\u306e\u6307\u5b9a\u306f\u6570\u5024\u3067\u884c\u3063\u3066\u304f\u3060\u3055\u3044\u3002 => "
+    }
+  ],
+  "proofFiles": {
+    "evidence\\effects-audit\\port-L\\native\\trainer-italic-20261008\\LtUICtrlTagCommand__PreProcessForTMP_4a1d780.c": "14df02032ffd7f70a60f5c0c2f5ee812aa79acff0a7450a27461a6e9b78876a2",
+    "evidence\\effects-audit\\port-L\\native\\trainer-italic-base-20261008\\MtUICtrlTagCommand__PreProcess_5bfd668.c": "0e8595f5b1c4ce5c2e432f966123430c3efadc42a327ed1109ffcab2642c60fb",
+    "evidence\\effects-audit\\port-L\\native\\trainer-stadium-20261008\\export-selected-methods.json": "4bf54d2ce5e6cdf949cb87274b871edba7a16a889d798c9150e10fd4d19cde60",
+    "evidence\\effects-audit\\port-L\\native\\trainer-scale-format-20261008\\export-selected-methods.json": "7afec43317b922b5f22fe76c670baf3879843fb83870fac92d018330277574ea"
+  },
+  "limits": "Original static branches and relocations only. No rendering or motion fidelity certificate."
+}

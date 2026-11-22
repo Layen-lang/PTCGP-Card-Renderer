@@ -1,0 +1,211 @@
+{
+  "branch": "CommonUICardDetailDialog/GrayGradient",
+  "backgroundType": 8,
+  "routingValidated": false,
+  "gradient": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 7144756312672775210
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 1,
+      "m_PathID": 3531303510880493979
+    },
+    "m_Name": "",
+    "direction": 2,
+    "color1": {
+      "r": 0.8627451062202454,
+      "g": 0.8392156958580017,
+      "b": 0.8901960849761963,
+      "a": 1.0
+    },
+    "color2": {
+      "r": 0.686274528503418,
+      "g": 0.7607843279838562,
+      "b": 0.886274516582489,
+      "a": 1.0
+    },
+    "color3": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "color4": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "color5": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "color6": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "color7": {
+      "r": 1.0,
+      "g": 1.0,
+      "b": 1.0,
+      "a": 1.0
+    },
+    "rotation": -24.0,
+    "offset1": 0.0,
+    "offset2": 0.0,
+    "gradientStyle": 0,
+    "offsetOption": 0,
+    "midColor3PositionFactor": 0.10000000149011612,
+    "midColor4PositionFactor": 0.20000000298023224,
+    "midColor5PositionFactor": 0.30000001192092896,
+    "midColor6PositionFactor": 0.4000000059604645,
+    "midColor7PositionFactor": 0.5
+  },
+  "rect": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 7144756312672775210
+    },
+    "m_LocalRotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "m_LocalPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "m_LocalScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "m_Children": [
+      {
+        "m_FileID": 0,
+        "m_PathID": -5279054178172392406
+      }
+    ],
+    "m_Father": {
+      "m_FileID": 0,
+      "m_PathID": -8598822372402844630
+    },
+    "m_AnchorMin": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_AnchorMax": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "m_AnchoredPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_SizeDelta": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_Pivot": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "icon": {
+    "rect": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -3090600858655904726
+      },
+      "m_LocalRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.087155781686306,
+        "w": 0.9961947202682495
+      },
+      "m_LocalPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "m_LocalScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      },
+      "m_Children": [],
+      "m_Father": {
+        "m_FileID": 0,
+        "m_PathID": -6136136845210866646
+      },
+      "m_AnchorMin": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "m_AnchorMax": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "m_AnchoredPosition": {
+        "x": -240.0,
+        "y": 435.0
+      },
+      "m_SizeDelta": {
+        "x": 750.0,
+        "y": 750.0
+      },
+      "m_Pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "color": {
+      "r": 0.7215686440467834,
+      "g": 0.7215686440467834,
+      "b": 0.8470588326454163,
+      "a": 1.0
+    },
+    "spriteName": "cmn_icn_loading_item",
+    "spriteId": "-5801097351609252848",
+    "type": 0,
+    "preserveAspect": false,
+    "pixelsPerUnitMultiplier": 1.0,
+    "useSpriteMesh": false,
+    "enabled": true,
+    "active": false
+  },
+  "provenance": {
+    "prefab": {
+      "name": "Common/UI/Prefabs/System/LtUIDialogBackground.prefab_bundles",
+      "blob": "ec65ef96e63ab2ba",
+      "content": "699d1b80107e87c0",
+      "encrypted_bytes": 9014,
+      "index": "d9eaeb1d980651c1.aladin"
+    },
+    "paletteKey": "CommonGradientColor",
+    "paletteElementKey": "GRAY_300",
+    "nativeDetailShow": "0x4d2caf8",
+    "nativeViewerShow": "0x4d0aad0",
+    "prefabReportSha256": "bac438756ff011fac0695459075ebc5098e7289463307a1af471f461538ae930",
+    "paletteReportSha256": "ccaa82b47b966cdee50f923405193b5501e5eb1fbefa098bb593934b5456f0eb"
+  },
+  "limitations": [
+    "Selected Detail branch only; active game dialog route and layer not verified",
+    "Standalone Viewer uses captured GrayBlur, not this branch",
+    "Dialog transition animation and other background modes remain unported"
+  ]
+}

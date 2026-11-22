@@ -1,0 +1,16 @@
+{
+  "sourceVersion": "1.7.5",
+  "nativeAwakeRva": "0x4758370",
+  "spacing": 10.0,
+  "isolationY": -100.0,
+  "uiIndex": 2,
+  "modelIndex": 4,
+  "sourceHashes": {
+    "evidence/presentation/card-live/studio-registry-20261006.json": "9fb5624fbcc6fd00300caa1e65bc4f08d593d4e11a5300499d58b03261516a20",
+    "evidence/presentation/card-live/studio-placement-asm.json": "54ea359c1111967a747b6414ba7fc8c374db63e9a189056c11022dcb666e1f82",
+    "evidence/native/v1.7.5/InitializeRenderStudioPlacement175.c": "8cd715876c7c40eaead2f7df7d1c46e659e39fc335958471d8cf81cd64534d9c",
+    "evidence/native/ui-studio-findings.json": "9622da45e2402950dcd44dbc453ebaab4aae3c8391b5e8abb37ba8327e0ed037",
+    "evidence/model-render-studio.json": "f5acf45470125cbab5d8a2dd100489cf78c6f5d610ce58336d21b86052dbe7fc"
+  },
+  "scope": "Original placement formula with allocation indices observed in the current Articuno RR reference context. Other allocating subsystems are not yet reproduced."
+}

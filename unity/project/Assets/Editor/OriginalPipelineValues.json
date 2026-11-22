@@ -1,0 +1,479 @@
+{
+  "entries": [
+    {
+      "asset": "pipeline",
+      "path": "m_RendererType",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_DefaultRendererIndex",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_RequireDepthTexture",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_RequireOpaqueTexture",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_OpaqueDownsampling",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportsTerrainHoles",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportsHDR",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_HDRColorBufferPrecision",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_MSAA",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_RenderScale",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_UpscalingFilter",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_FsrOverrideSharpness",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_FsrSharpness",
+      "value": 0.9200000166893005
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_EnableLODCrossFade",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_LODCrossFadeDitheringType",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShEvalMode",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_LightProbeSystem",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ProbeVolumeMemoryBudget",
+      "value": 1024.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ProbeVolumeBlendingMemoryBudget",
+      "value": 256.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportProbeVolumeGPUStreaming",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportProbeVolumeDiskStreaming",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportProbeVolumeScenarios",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportProbeVolumeScenarioBlending",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ProbeVolumeSHBands",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_MainLightRenderingMode",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_MainLightShadowsSupported",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_MainLightShadowmapResolution",
+      "value": 2048.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsRenderingMode",
+      "value": 2.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsPerObjectLimit",
+      "value": 4.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightShadowsSupported",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsShadowmapResolution",
+      "value": 512.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsShadowResolutionTierLow",
+      "value": 128.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsShadowResolutionTierMedium",
+      "value": 256.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsShadowResolutionTierHigh",
+      "value": 512.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ReflectionProbeBlending",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ReflectionProbeBoxProjection",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShadowDistance",
+      "value": 50.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShadowCascadeCount",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_Cascade2Split",
+      "value": 0.25
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_Cascade3Split.x",
+      "value": 0.10000000149011612
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_Cascade3Split.y",
+      "value": 0.30000001192092896
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_Cascade4Split.x",
+      "value": 0.06700000166893005
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_Cascade4Split.y",
+      "value": 0.20000000298023224
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_Cascade4Split.z",
+      "value": 0.46700000762939453
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_CascadeBorder",
+      "value": 0.10000000149011612
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShadowDepthBias",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShadowNormalBias",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SoftShadowsSupported",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ConservativeEnclosingSphere",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_NumIterationsEnclosingSphere",
+      "value": 64.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SoftShadowQuality",
+      "value": 2.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsCookieResolution",
+      "value": 2048.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AdditionalLightsCookieFormat",
+      "value": 3.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_UseSRPBatcher",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportsDynamicBatching",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_MixedLightingSupported",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportsLightCookies",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportsLightLayers",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_DebugLevel",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_StoreActionsOptimization",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_UseAdaptivePerformance",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ColorGradingMode",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ColorGradingLutSize",
+      "value": 32.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_AllowPostProcessAlphaOutput",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_UseFastSRGBLinearConversion",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportDataDrivenLensFlare",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SupportScreenSpaceLensFlare",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_GPUResidentDrawerMode",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_SmallMeshScreenPercentage",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_GPUResidentDrawerEnableOcclusionCullingInCameras",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShadowType",
+      "value": 1.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_LocalShadowsSupported",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_LocalShadowsAtlasResolution",
+      "value": 256.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_MaxPixelLights",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShadowAtlasResolution",
+      "value": 256.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_VolumeFrameworkUpdateMode",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShaderVariantLogLevel",
+      "value": 0.0
+    },
+    {
+      "asset": "pipeline",
+      "path": "m_ShadowCascades",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_UseNativeRenderPass",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_OpaqueLayerMask.m_Bits",
+      "value": 4294967295.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_TransparentLayerMask.m_Bits",
+      "value": 4294967295.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DefaultStencilState.overrideStencilState",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DefaultStencilState.stencilReference",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DefaultStencilState.stencilCompareFunction",
+      "value": 8.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DefaultStencilState.passOperation",
+      "value": 2.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DefaultStencilState.failOperation",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DefaultStencilState.zFailOperation",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_ShadowTransparentReceive",
+      "value": 1.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_RenderingMode",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DepthPrimingMode",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_CopyDepthMode",
+      "value": 1.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DepthAttachmentFormat",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_DepthTextureFormat",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_AccurateGbufferNormals",
+      "value": 0.0
+    },
+    {
+      "asset": "renderer",
+      "path": "m_IntermediateTextureMode",
+      "value": 1.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WebGL2 card</title>
+<style>
+    :root { color-scheme: light dark; --page: #dcd6e3; --text: #1b1b1f; }
+    @media (prefers-color-scheme: dark) { :root { --page: #24252b; --text: #ececf1; } }
+    body { margin: 0; min-height: 100vh; overflow: hidden; display: grid; place-items: center; background: var(--page); color: var(--text); font: 14px system-ui, sans-serif; }
+    /* As tall as the window allows, unless the width runs out first: a phone held upright. */
+    pokemon-card { height: min(90vh, calc((100vw - 32px) * 880 / 630)); width: auto; }
+    output { position: fixed; left: 16px; bottom: 12px; font-variant-numeric: tabular-nums; }
+</style>
+<link rel="modulepreload" href="src/engine.js">
+<link rel="modulepreload" href="src/effects.js">
+<link rel="modulepreload" href="src/bloom.js">
+<link rel="modulepreload" href="src/touch.js">
+<script type="module" src="src/pokemon-card.js"></script>
+</head>
+<body>
+<pokemon-card id="card"></pokemon-card>
+<output id="status">Loading…</output>
+<script type="module">
+    // ?card=&lang=&target=&samples=&quality=&gold select the card, its frame and the render size; the base defaults to /web-cards/.
+    const query = new URLSearchParams(location.search);
+    const card = document.getElementById('card'), status = document.getElementById('status');
+    for (const name of ['lang', 'target', 'samples', 'base', 'quality', 'gold']) if (query.has(name)) card.setAttribute(name, query.get(name));
+    card.addEventListener('cardready', ({ detail }) => {
+        status.dataset.firstAt = performance.now();
+        const { target, samples } = card.renderer;
+        document.getElementById('status').textContent = `First frame: ${detail.firstFrame.toFixed(0)} ms · ${target.side} px target · antialiasing ${samples > 1 ? `${samples}x` : 'off'}`;
+    });
+    card.setAttribute('card', query.get('card') ?? 'PK_10_000010_00');
+</script>
+</body>
+</html>

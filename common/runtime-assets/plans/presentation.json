@@ -1,0 +1,97 @@
+{
+  "scaler": {
+    "uiScaleMode": 1,
+    "referencePixelsPerUnit": 100.0,
+    "scaleFactor": 1.0,
+    "referenceResolution": [
+      750.0,
+      1334.0
+    ],
+    "screenMatchMode": 1,
+    "matchWidthOrHeight": 0.0,
+    "physicalUnit": 3,
+    "fallbackScreenDPI": 96.0,
+    "defaultSpriteDPI": 96.0,
+    "dynamicPixelsPerUnit": 1.0,
+    "presetInfoIsWorld": false
+  },
+  "cardWidth": 630.0,
+  "cardHeight": 880.0,
+  "fit": 0,
+  "useMipMap": false,
+  "sourcePrefab": "Common/UI/Prefabs/Common/CommonUICardViewerDialog.prefab_bundles",
+  "sourceCardPath": "CommonUICardViewerDialog/contents_container/card_elm/view_port/scroll_root/scroll_content/card_view_elm/card_img_elm/card_img",
+  "sourceScaler": {
+    "file": "level3",
+    "id": 92,
+    "raw_sha256": "9743b83ddef6fece55a829c9bd693fd2fce9a8528a1de7a4ec99282e8df6ede1"
+  },
+  "camera": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 2
+    },
+    "m_Enabled": 1,
+    "m_ClearFlags": 3,
+    "m_BackGroundColor": {
+      "r": 0.1921568661928177,
+      "g": 0.3019607961177826,
+      "b": 0.4745098054409027,
+      "a": 0.0
+    },
+    "m_projectionMatrixMode": 1,
+    "m_GateFitMode": 2,
+    "m_Iso": 200,
+    "m_ShutterSpeed": 0.004999999888241291,
+    "m_Aperture": 16.0,
+    "m_FocusDistance": 10.0,
+    "m_FocalLength": 50.0,
+    "m_BladeCount": 5,
+    "m_Curvature": {
+      "x": 2.0,
+      "y": 11.0
+    },
+    "m_BarrelClipping": 0.25,
+    "m_Anamorphism": 0.0,
+    "m_SensorSize": {
+      "x": 36.0,
+      "y": 24.0
+    },
+    "m_LensShift": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_NormalizedViewPortRect": {
+      "x": 0.0,
+      "y": 0.0,
+      "width": 1.0,
+      "height": 1.0
+    },
+    "near clip plane": 0.30000001192092896,
+    "far clip plane": 1000.0,
+    "field of view": 60.0,
+    "orthographic": true,
+    "orthographic size": 5.0,
+    "m_Depth": 11.0,
+    "m_CullingMask": {
+      "m_Bits": 67108896
+    },
+    "m_RenderingPath": -1,
+    "m_TargetTexture": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_TargetDisplay": 0,
+    "m_TargetEye": 3,
+    "m_HDR": false,
+    "m_AllowMSAA": false,
+    "m_AllowDynamicResolution": false,
+    "m_ForceIntoRT": false,
+    "m_OcclusionCulling": true,
+    "m_StereoConvergence": 10.0,
+    "m_StereoSeparation": 0.02199999988079071
+  },
+  "probeWidth": 1080,
+  "probeHeight": 1920,
+  "probePresentationCaveat": "Material/geometry isolation: centered card only; original final UI renderer, safe area, modal animation, background and controls not reconstructed"
+}
